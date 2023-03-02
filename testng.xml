@@ -5,8 +5,8 @@
 		<classes>
 			<class name="com.vbk.testngdemo.A" >
 			<methods>
-			<!--	<include name="m1"></include>
-				<include name="ab"></include>-->
+			<include name="m1"></include>
+				<include name="ab"></include>
 				<exclude name="abcd"></exclude>
 			</methods>
 			</class>
