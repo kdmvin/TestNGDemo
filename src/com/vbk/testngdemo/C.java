@@ -11,6 +11,7 @@ public class C {
 		if(bname.equals("chrome"))
 		{
 			System.out.println(bname);
+			System.out.println(bname);
 		}
 		
 		if(bname.equals("firefox"))
