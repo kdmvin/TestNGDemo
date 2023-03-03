@@ -7,6 +7,7 @@ public class B {
 	@Test(groups = {"smoke"})
 	public void m6() {
 		System.out.println("m6--B");
+		System.out.println("m6--B");
 	}
 	
 	@Test(groups = {"smoke"})

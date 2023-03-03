@@ -11,6 +11,4 @@ public class DataProviderDemo {
 	//	Thread.sleep(5000);
 	}
 
-	
-
 }
