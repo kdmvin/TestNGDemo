@@ -10,6 +10,7 @@ public class A {
 	public void m1() {
 		Reporter.log("This is first test");
 		System.out.println("A--m1");
+		System.out.println("A--m1");
 		// Assert.assertEquals(true, false);
 	}
 
